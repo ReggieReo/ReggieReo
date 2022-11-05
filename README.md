@@ -55,6 +55,7 @@
   
   
 <details>
+  <summary>Click for more Bocchi <img width="35" src="ezgif-1-bf306d8a17.png"></summary>
   <div align="center">
     <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
     <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
