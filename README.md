@@ -55,7 +55,7 @@
   
   
 <details>
-  <summary>Click for more Bocchi <img width="35" src="ezgif-1-bf306d8a17.png"></summary>
+  <summary><h1 align="center">Click for more Bocchi <img width="35" src="ezgif-1-bf306d8a17.png">, I'm ReoReggie</h1></summary>
   <div align="center">
     <div align="center">
     <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
