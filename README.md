@@ -8,7 +8,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-  
+
 <div align="center">
   <picture>
   <source 
@@ -24,6 +24,8 @@
 </div>
 
 -----
+  
+ 
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -47,7 +49,26 @@
     </p>
   </samp>
 </div>
+<details>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
+         alt="bocchi" /></a>
+  </div>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/MCwKKJC.gif"
+         alt="bocchi" /></a>
+  </div>
+  <div align="center">
+    <a href="https://youtu.be/MSnLgdQFk1c">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/uSjJriy.gif"
+         alt="bocchi" /></a>
+  </div>
+</details>
 
+-----
+  
 ```js
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢶⡶⣦⡀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡶⠋⣱⠋⠀⠘⣧⠀
@@ -81,20 +102,3 @@
 ⠈⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠙⠻⢶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-<details>
-  <div align="center">
-    <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
-    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
-         alt="bocchi" /></a>
-  </div>
-  <div align="center">
-    <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
-    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/MCwKKJC.gif"
-         alt="bocchi" /></a>
-  </div>
-  <div align="center">
-    <a href="https://youtu.be/MSnLgdQFk1c">
-    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/uSjJriy.gif"
-         alt="bocchi" /></a>
-  </div>
-</details>
