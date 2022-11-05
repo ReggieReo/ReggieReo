@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="ezgif-1-bf306d8a17.png">, I'm ReoReggie</h1>
-<h4 align="center">คนโง่นั่งเขียนโค๊ด<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank"></h4>
+<h4 align="center">คนโง่นั่งเขียนโค๊ด</h4>
 </div>
 
 <div align="center">
