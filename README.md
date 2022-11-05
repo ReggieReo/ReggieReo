@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm ReoReggie</h1>
-<h4 align="center">คนโง่นั่งเขียนโค๊ด<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank"></h4>
+<h1 align="center">Hi <img width="35" src="ezgif-1-bf306d8a17.png">, I'm ReoReggie</h1>
+<h4 align="center">คนโง่นั่งเขียนโค๊ด</h4>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-  
+
 <div align="center">
   <picture>
   <source 
@@ -24,6 +24,8 @@
 </div>
 
 -----
+  
+ 
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -47,7 +49,34 @@
     </p>
   </samp>
 </div>
+  
+  
+-----
+  
+  
+<details>
+  <summary>
+    <h1 align="center">Click for more Bocchi <img width="35" src="ezgif-1-bf306d8a17.png"></h1>
+  </summary>
+  <div align="center">
+    <div align="center">
+    <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/MCwKKJC.gif"
+         alt="bocchi" /></a>
+  </div>
+    <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
+         alt="bocchi" /></a>
+  </div>
+  <div align="center">
+    <a href="https://youtu.be/MSnLgdQFk1c">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/uSjJriy.gif"
+         alt="bocchi" /></a>
+  </div>
+</details>
 
+-----
+  
 ```js
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢶⡶⣦⡀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡶⠋⣱⠋⠀⠘⣧⠀
