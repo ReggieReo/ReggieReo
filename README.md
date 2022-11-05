@@ -81,19 +81,20 @@
 ⠈⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠙⠻⢶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-  
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
-  <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
-       alt="bocchi" /></a>
-</div>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
-  <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/MCwKKJC.gif"
-       alt="bocchi" /></a>
-</div>
-<div align="center">
-  <a href="https://youtu.be/MSnLgdQFk1c">
-  <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/uSjJriy.gif"
-       alt="bocchi" /></a>
-</div>
+<details>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=7FDRQifEMUQ">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/eINB7pC.gif"
+         alt="bocchi" /></a>
+  </div>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=IwHwv-lcxi4">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/MCwKKJC.gif"
+         alt="bocchi" /></a>
+  </div>
+  <div align="center">
+    <a href="https://youtu.be/MSnLgdQFk1c">
+    <img  src="https://github.com/ReggieReo/ReggieReo/blob/main/uSjJriy.gif"
+         alt="bocchi" /></a>
+  </div>
+</details>
