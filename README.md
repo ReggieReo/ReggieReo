@@ -4,12 +4,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=Yd8kUoB72xU">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<div align="center">
   <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=ReggieReo&show_icons=true&theme=dark"
